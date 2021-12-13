@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
 
+// Simple contract that allows to store users name and number.
+
 pragma solidity >=0.6.0 <0.9.0;
 
 contract SimpleStorage {
